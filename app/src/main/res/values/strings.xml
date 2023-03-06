@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LOLme</string>
+    <string name="errorMessage">Please check your Internet Connection. Or there might be some problem with the meme source.</string>
+    <string name="nextInfo">Press NEXT to load next meme.</string>
+</resources>
